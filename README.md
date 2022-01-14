@@ -5,17 +5,17 @@ Multi speedtest base on bench.sh with some modification on script ~
 
 Run this command ~~
 
-```
+```bash
 wget -qO- https://raw.githubusercontent.com/leonyonz/multi-speedtest/master/script.sh | bash
 ```
 
 or
 
-```
+```bash
 curl -Lso- https://raw.githubusercontent.com/leonyonz/multi-speedtest/master/script.sh | bash
 ```
 
-The result must be like this:
+The result should be like this:
 
 ![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/result-speed.png)
 
