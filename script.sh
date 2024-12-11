@@ -75,12 +75,12 @@ speed_test() {
 
 speed() {
     speed_test '' 'Speedtest.net'
-    speed_test '7582'  'Telkom JKT    ID'
-    speed_test '797'  'Biznet  ID'
+    speed_test '2233'  'Telkom SBY    ID'
+    speed_test '8579'  'Biznet  ID'
     speed_test '5935' 'My Republic  SG'
     speed_test '4802' 'FirstMedia  ID'
     speed_test '12807' 'CBN JKT  ID'
-    speed_test '16398' 'CN Mobile   CN'
+    speed_test '16375' 'CN Mobile   CN'
     speed_test '3242'  'Netherland   NL'
     speed_test '14623' 'Japan      JP'
 }
