@@ -6,13 +6,13 @@ Multi speedtest base on bench.sh with some modification on script ~
 Run this command ~~
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/leonyonz/multi-speedtest/master/script.sh | bash
+wget -qO- https://raw.githubusercontent.com/leonyonz/multi-speedtest/refs/heads/master/script.sh | bash
 ```
 
 or
 
 ```bash
-curl -Lso- https://raw.githubusercontent.com/leonyonz/multi-speedtest/master/script.sh | bash
+curl -Lso- https://raw.githubusercontent.com/leonyonz/multi-speedtest/refs/heads/master/script.sh | bash
 ```
 
 The result should be like this:
