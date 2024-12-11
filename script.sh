@@ -75,7 +75,7 @@ speed_test() {
 
 speed() {
     speed_test '' 'Speedtest.net'
-    speed_test '2233'  'Telkom SBY    ID'
+    speed_test '1372'  'Telkom SBY    ID'
     speed_test '8689'  'Biznet Jimbaran ID'
     speed_test '38128' 'Biznet SBY  ID'
     speed_test '5935' 'My Republic  SG'
